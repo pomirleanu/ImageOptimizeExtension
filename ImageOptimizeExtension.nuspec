@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+	<metadata>
+		<id>ImageOptimizeExtension</id>
+		<title>ImageOptimizeExtension</title>
+		<version>0.0.1</version>
+		<authors>Pomirleanu Florentin Cristinel</authors>
+		<licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+		<projectUrl>https://github.com/pomirleanu/ImagickExtension/tree/x64</projectUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>Adds Pngquant and JpegOptim support to azure web app</description>
+		<iconUrl>https://pngquant.org/pngquant-logo-small.png</iconUrl>
+		<tags>pngquant jpegoptim image optimization</tags>
+	</metadata>
+	<files>
+		<file src="Content\**\*.*" target="Content" />
+	</files>
+</package>
