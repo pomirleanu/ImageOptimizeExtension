@@ -11,7 +11,7 @@
   <system.webServer>
     <runtime xdt:Transform="InsertIfMissing">
       <environmentVariables xdt:Transform="InsertIfMissing">
-        <add name="PATH" value="%PATH%;%HOME%\SiteExtensions\ImageOptimizeExtension\lib\bin\;" />
+        <add name="PATH" value="%PATH%;%HOME%\SiteExtensions\ImageOptimizeExtension\lib\bin" />
       </environmentVariables>
     </runtime>
   </system.webServer>
